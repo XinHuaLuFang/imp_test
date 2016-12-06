@@ -1,0 +1,23 @@
+{
+  "name": "imp_test",
+  "version": "1.0.0",
+  "description": "1. 全局安装mocha\r ```\r     npm install -g mocha\r ```",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinHuaLuFang/imp_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinHuaLuFang/imp_test/issues"
+  },
+  "homepage": "https://github.com/XinHuaLuFang/imp_test#readme"
+}
