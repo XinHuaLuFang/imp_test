@@ -13,3 +13,8 @@
 ```
     ;D:\imp_test\chromedriver
 ```
+
+4. 运行测试
+```
+    npm test
+```
