@@ -8,9 +8,18 @@
 - 需要单独学习的组件
   - [echart](http://echarts.baidu.com/)
   - [underscore](http://underscorejs.org/)
-  - [ztree]()
+  - [ztree](http://www.treejs.cn/)
   
 # 第三方插件
-- []()
-- []()
-- []()
+- [mxgraph]()
+- [jit]()
+- [prototype]()
+- [dwr]()
+
+# 构建工具
+- [Grunt]()
+- [Maven]()
+
+# 技术选型
+- SpringMVC生成的服务 + JQuery + underscore模版
+- `SSI`服务器端包含
